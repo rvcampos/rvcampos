@@ -6,9 +6,9 @@
 
   <a href="https://github.com/rvcampos">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rvcampos&show_icons=true&count_private=true&bg_color=0D0C15&text_color=ffffff&title_color=FFD700&icon_color=c71c1c&border_radius=0.5rem)
+  ![GitHub Stats](https://github-readme-stats-rvcampos.vercel.app/api?username=rvcampos&show_icons=true&count_private=true&bg_color=0D0C15&text_color=ffffff&title_color=FFD700&icon_color=c71c1c&border_radius=0.5rem)
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rvcampos&langs_count=10&layout=compact&bg_color=0D0C15&text_color=ffffff&title_color=FFD700&border_radius=0.5rem)
+  ![Most Used Languages](https://github-readme-stats-rvcampos.vercel.app/api/top-langs?username=rvcampos&count_private=true&langs_count=10&layout=compact&bg_color=0D0C15&text_color=ffffff&title_color=FFD700&border_radius=0.5rem)
 
   ![Trophies](https://github-profile-trophy.vercel.app/?username=rvcampos&rank=SECRET,SSS,SS,S,AAA,AA,A&row=5&column=4&theme=juicyfresh)
 
@@ -52,12 +52,18 @@
   
   </a>
   
+  ### CLOUD
+  <a href="https://github.com/rvcampos">
+  
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  
+  </a>
+  
   ### MISC
   <a href="https://github.com/rvcampos">
   
   ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
   ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
